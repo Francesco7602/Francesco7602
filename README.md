@@ -18,4 +18,3 @@ I'm here because i wanna make open source free software
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francesco7602&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francesco7602&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=francesco7602)](https://git.io/streak-stats)
