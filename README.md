@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 Computer science student at Università di Pisa
 
 I'm here because i wanna make open source free software
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francesco7602)](https://github.com/anuraghazra/github-readme-stats)
