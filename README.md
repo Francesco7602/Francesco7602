@@ -1,20 +1,40 @@
-### Hi there 👋
+# Hi, I'm Francesco!  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-<!--
-**Francesco7602/Francesco7602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Computer science student at Università di Pisa
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-I'm here because i wanna make open source free software
+**Software Developer** & **MSc AI Student** @ **University of Pisa** 🇮🇹  
+Specializing in building and deploying intelligent, scalable systems.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francesco7602&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francesco7602&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+> "We're all mad here. I'm mad. You're mad." — 😸
+
+---
+
+```javascript
+const francesco = {
+  status: "Software Developer & MSc AI Student",
+  education: "BSc in CS → MSc in Artificial Intelligence @ UniPi",
+  hobbies: ["Chess", "Open Source", "Robotics"],
+  stack: {
+    languages: ["Python", "C++", "C", "Java"],
+    ai_ml: ["Machine Learning", "RAG", "LangChain", "Cheshire Cat"],
+    data_infra: ["Qdrant", "Elasticsearch", "SQL", "Nginx"],
+    scraping: "Advanced data acquisition workflows"
+  },
+  devops_mlops: {
+    tools: ["Docker", "Kubernetes", "GitHub Actions"],
+    focus: "Containerization & CI/CD workflows"
+  },
+  soft_skills: ["Adaptable", "Team Player", "Complex Problem Solving"],
+}
+```
+
+About Me
+
+    Recently graduated with a BSc from UniPi, now pursuing an MSc in AI.
+    Foundation in Robotics and low-level programming (C/C++).
+    Focused on the Modern AI Stack: from RAG architectures to Vector Databases.
+    Linux enthusiast and advocate for scalable, containerized systems.
+    
+Connect with me
+    LinkedIn: [https://www.linkedin.com/in/francesco-romeo-1b9523162/]
+Always up for a chat about code, AI, or a quick chess match!
