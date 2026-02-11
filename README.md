@@ -31,10 +31,16 @@ const francesco = {
 About Me
 
     Recently graduated with a BSc from UniPi, now pursuing an MSc in AI.
+    
     Foundation in Robotics and low-level programming (C/C++).
+    
     Focused on the Modern AI Stack: from RAG architectures to Vector Databases.
+    
     Linux enthusiast and advocate for scalable, containerized systems.
     
 Connect with me
+
     LinkedIn: [https://www.linkedin.com/in/francesco-romeo-1b9523162/]
+
+
 Always up for a chat about code, AI, or a quick chess match!
